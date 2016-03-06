@@ -1,0 +1,21 @@
+{
+  "name": "spanan-local-storage",
+  "authors": [
+    "chrmod <krzysztof.modras@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "spanan": "^0.1.0"
+  }
+}
